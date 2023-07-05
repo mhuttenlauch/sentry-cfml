@@ -1,4 +1,4 @@
-# Sentry SDK for ColdFusion
+# Sentry SDK for Lucee
 
 sentry-cfml is based on the original raven-cfml client developed
 by jmacul2 (https://github.com/jmacul2/raven-cfml)
@@ -10,8 +10,8 @@ sentry-cfml been updated to full script with support to instantiate
 and use as a singleton. Also some functions have been rewritten to use either
 new ColdFusion language enhancements or existing functions.
 
-sentry-cfml is for use with ColdFusion 2016 testing on earlier
-versions of ColdFusion has not been done.
+sentry-cfml is for use with Lucee 5.3.6 testing on earlier
+versions or Adobe ColdFusion has not been done.
 
 Sentry SDK Documentation
 https://docs.sentry.io/clientdev/
